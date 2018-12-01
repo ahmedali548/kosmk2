@@ -41,7 +41,7 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === '-مبلغ'){
-        message.channel.send('#credits @! GH -KiLLeR.₄₅👑#5778 25000')
+        message.channel.send('#credits')
     }
 });
 
